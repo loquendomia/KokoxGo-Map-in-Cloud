@@ -58,7 +58,7 @@
             "nodeGroup": "cp",
             "nodeType": "docker",
             "docker": {
-              "image": "loquendomia/pokemongo-bot"
+              "image": "loquendomia/kokoxgo-bot"
             }
           }
         ]
